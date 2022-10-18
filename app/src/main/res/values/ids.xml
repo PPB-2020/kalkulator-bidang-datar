@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id" />
+    <item name="atxt" type="id" />
+    <item name="textView2" type="id" />
+    <item name="ttxt" type="id" />
+    <item name="btxt" type="id" />
+    <item name="ctxt" type="id" />
+    <item name="textView3" type="id" />
+    <item name="textView12" type="id" />
+    <item name="textView13" type="id" />
+    <item name="textView14" type="id" />
+    <item name="abtxt" type="id" />
+    <item name="datxt" type="id" />
+    <item name="cdtxt" type="id" />
+    <item name="bctxt" type="id" />
+    <item name="textView29" type="id" />
+    <item name="textView30" type="id" />
+    <item name="textView31" type="id" />
+    <item name="textView32" type="id" />
+    <item name="textView33" type="id" />
+    <item name="textView34" type="id" />
+    <item name="textView35" type="id" />
+    <item name="textView23" type="id" />
+    <item name="textView24" type="id" />
+    <item name="textView25" type="id" />
+    <item name="textView26" type="id" />
+    <item name="textView27" type="id" />
+    <item name="textView28" type="id" />
+    <item name="d1txt" type="id" />
+    <item name="d2txt" type="id" />
+    <item name="textView18" type="id" />
+    <item name="textView19" type="id" />
+    <item name="textView20" type="id" />
+    <item name="textView21" type="id" />
+    <item name="textView22" type="id" />
+    <item name="aabtxt" type="id" />
+    <item name="textView36" type="id" />
+    <item name="textView37" type="id" />
+    <item name="textView38" type="id" />
+    <item name="textView39" type="id" />
+    <item name="textView40" type="id" />
+    <item name="textView41" type="id" />
+    <item name="textView42" type="id" />
+</resources>
